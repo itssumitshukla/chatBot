@@ -2,10 +2,10 @@
 ## LIL JON CHATBOT
 * Lil jon is not a man of many words. Use his 4 keywords to see `what` he responds with: (use lowercase)
 ```
-1 `Hello`
-2 `Okay`
-3 `What`
-4 `Yeah`
+1 `hello`
+2 `okay`
+3 `what`
+4 `yeah`
 ```
 
 ## Unfinished business
