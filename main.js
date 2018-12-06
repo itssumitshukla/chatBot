@@ -5,7 +5,7 @@ let output = document.getElementsByClassName('changeMe')[0],
 
 // Array Questions
 const askThese = [
-    'Did you hear about Luis has an awesome chatbot!',
+    'Did you hear Luis has an awesome chatbot!',
     'Mikal did a bot about wall-e boi!',
     'Dora is from cali!!!',
     'Sean is livin it up in Coloradoooooo',
@@ -17,7 +17,9 @@ const crunk = [
     'Shorty get low low low',
     'YEEEEAHHHHH!!!',
     'Shake it like a salt shaker',
-    'Tell me when to go!'
+    'Tell me when to go!',
+    'Hello and goodevening',
+    'Shots, shots, shots, shots'
 ];
 
 clickSon.addEventListener('click', function(){
@@ -52,3 +54,9 @@ function showImage() {
 };
 
 setTimeout(showImage, 4000);
+
+
+//need to add regex
+
+
+//need to utilize api
